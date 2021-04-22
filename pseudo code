@@ -1,8 +1,0 @@
-open app if the user asked to login, login to the app 
-If user doesn't have an account, click on guest or create account 
-when user login to the app, click on serach button and type energy drink
-when the user finds the right energy, drink click on the shopping card
-if clicked, press checkout and put your bank information and the user address 
-confirm your purchase and logout of the app
-if confirm track user purchase from web browser
-the user order is completed 
